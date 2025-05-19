@@ -1,0 +1,14 @@
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab36\bin\Debug\net8.0\Lab36.exe
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab36\bin\Debug\net8.0\Lab36.deps.json
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab36\bin\Debug\net8.0\Lab36.runtimeconfig.json
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab36\bin\Debug\net8.0\Lab36.dll
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab36\bin\Debug\net8.0\Lab36.pdb
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab36\obj\Debug\net8.0\Lab36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab36\obj\Debug\net8.0\Lab36.AssemblyInfoInputs.cache
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab36\obj\Debug\net8.0\Lab36.AssemblyInfo.cs
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab36\obj\Debug\net8.0\Lab36.csproj.CoreCompileInputs.cache
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab36\obj\Debug\net8.0\Lab36.dll
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab36\obj\Debug\net8.0\refint\Lab36.dll
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab36\obj\Debug\net8.0\Lab36.pdb
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab36\obj\Debug\net8.0\Lab36.genruntimeconfig.cache
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab36\obj\Debug\net8.0\ref\Lab36.dll

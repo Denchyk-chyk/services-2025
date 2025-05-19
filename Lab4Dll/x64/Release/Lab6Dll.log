@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Lab6Dll.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  dllmain.cpp
+     Creating library C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\x64\Release\Lab4Dll.lib and object C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\x64\Release\Lab4Dll.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Lab6Dll.vcxproj -> C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\x64\Release\Lab4Dll.dll

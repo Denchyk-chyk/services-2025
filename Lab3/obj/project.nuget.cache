@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8F+mcr6NpJU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\denys\\OneDrive\\Документи\\Навчання\\ІФНТУНГ\\3 Курс\\2 Семестр\\Новітні інформаційні сервіси\\Лабораторні\\Вихідний код\\Services\\Lab3\\Lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denys\\.nuget\\packages\\system.io.pipelines\\9.0.3\\system.io.pipelines.9.0.3.nupkg.sha512",
+    "C:\\Users\\denys\\.nuget\\packages\\system.text.encodings.web\\9.0.3\\system.text.encodings.web.9.0.3.nupkg.sha512",
+    "C:\\Users\\denys\\.nuget\\packages\\system.text.json\\9.0.3\\system.text.json.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

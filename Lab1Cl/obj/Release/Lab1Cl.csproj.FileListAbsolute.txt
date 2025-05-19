@@ -1,0 +1,6 @@
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab1Cl\bin\Release\Lab1Cl.dll
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab1Cl\bin\Release\Lab1Cl.pdb
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab1Cl\obj\Release\Lab1Cl.csproj.AssemblyReference.cache
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab1Cl\obj\Release\Lab1Cl.csproj.CoreCompileInputs.cache
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab1Cl\obj\Release\Lab1Cl.dll
+C:\Users\denys\OneDrive\Документи\Навчання\ІФНТУНГ\3 Курс\2 Семестр\Новітні інформаційні сервіси\Лабораторні\Вихідний код\Services\Lab1Cl\obj\Release\Lab1Cl.pdb
