@@ -1,0 +1,72 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code workspace
+.vscode/
+
+## Visual Studio temp files
+*.tmp
+*.bak
+*.ncb
+*.log
+*.vspscc
+*.vssscc
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Installer logs
+*.msi
+*.msm
+*.cab
+
+## Test results
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+
+## Build logs
+*.log
+*.tlog
+
+## Resharper / Rider
+*.DotSettings.user
+.idea/
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+
+## DLLs / native libs
+*.dll
+*.lib
+*.pdb
+*.exe
+*.ilk
+
+## Web stuff
+wwwroot/node_modules/
+node_modules/
+
+## Git itself
+.git/
+*.orig
+
+## Others
+*.cache
+*.vs/
+*.dbmdl
+*.jfm
+_ReSharper*/
