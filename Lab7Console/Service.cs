@@ -1,4 +1,5 @@
 ﻿using Lab7Api.Models;
+using System.Text;
 using System.Text.Json;
 
 namespace Lab7Console;
@@ -33,7 +34,7 @@ internal class Service
 
 	public async Task<BookDto> CreateAsync(InputBookDto dto)
 	{
-		var response = await _client.PostAsync(Address(), dto.ToJsonContent());
+		var response = await _client.PostAsync(Address(), DtoToJson(dto));
 		response.EnsureSuccessStatusCode();
 		var json = await response.Content.ReadAsStringAsync();
 		return JsonSerializer.Deserialize<BookDto>(json, _options);
@@ -41,7 +42,7 @@ internal class Service
 
 	public async Task<bool> UpdateAsync(int id, InputBookDto dto)
 	{
-		var response = await _client.PutAsync(Address(id), dto.ToJsonContent());
+		var response = await _client.PutAsync(Address(id), DtoToJson(dto));
 		return response.IsSuccessStatusCode;
 	}
 
@@ -52,4 +53,7 @@ internal class Service
 	}
 
 	private static string Address(int id = -1) => "http://localhost:5000/api/books" + (id != -1 ? $"/{id}" : string.Empty);
+
+	private static StringContent DtoToJson(InputBookDto dto) => new(JsonSerializer.Serialize(dto), Encoding.UTF8, "application/json");
+
 }
