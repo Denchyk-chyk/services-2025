@@ -1,0 +1,24 @@
+﻿@model Lab6.Models.Fruit
+
+@{
+    Layout = "_Layout";
+}
+
+<div class="container">
+    <section>
+        <div class="d-flex align-items-center">
+            <div class="ms-auto me-auto">
+                <h1>@Model.Name</h1>
+                <div class="bg-white shadow rounded d-flex flex-column align-items-center p-3" style="width: 500px">
+                    <div class="details-img">
+                        <div class="btn btn-secondary position-relative" onclick="addToCart(@Model.Id)">
+                            <p>+</p>
+                        </div>
+                        <img src="@Model.ImageUrl" class="img-fluid" alt="Зображення" />
+                    </div>
+                    <p class="fs-5 m-2 text-wrap">@Model.Description</p>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
