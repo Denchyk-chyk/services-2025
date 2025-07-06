@@ -26,8 +26,12 @@ public class BooksController : ControllerBase
 	public async Task<IActionResult> GetById(int id)
 	{
 		var book = await _service.GetByIdAsync(id);
+
 		if (book == null)
+		{
 			return NotFound();
+		}
+
 		return Ok(book);
 	}
 

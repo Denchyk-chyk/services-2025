@@ -33,13 +33,13 @@ namespace Lab7Console
 			return dto;
 		}
 
-		public static string Show(this InputBookDto dto) =>
+		public static void Show(this BookDto dto) => Console.WriteLine(
 			$"{"Id:",-13} {dto.Id}\n" +
 			$"{"Назва:",-13} {dto.Title}\n" +
 			$"{"Автор:",-13} {dto.Author}\n" +
 			$"{"Жанр:",-13} {dto.Genre}\n" +
 			$"{"Видавництво:",-13} {dto.Publisher}\n" +
 			$"{"Ціна:",-13} {dto.Price}\n" +
-			$"{"Рік:",-13} {dto.Year}";
+			$"{"Рік:",-13} {dto.Year}");
 	}
 }

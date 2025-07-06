@@ -42,6 +42,7 @@ public class BookService(string connectionectionString) : IBookService
 
 		return null;
 	}
+
 	public async Task<int> InsertOrUpdateAsync(int? id, InputBookDto book)
 	{
 		using var connection = new NpgsqlConnection(_connectionString);

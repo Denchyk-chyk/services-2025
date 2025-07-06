@@ -7,7 +7,7 @@ internal class Controller
 	public async Task ShowAsync()
 	{
 		var book = await _service.GetAsync(InputId());
-		Console.WriteLine(book);
+		book.Show();
 	}
 
 	public async Task ShowAllAsync()
@@ -17,22 +17,20 @@ internal class Controller
 
 		foreach (var book in books)
 		{
-			Console.WriteLine(book);
+			book.Show();
 		}
 	}
 
 	public async Task AddAsync()
 	{
-		var input = BookDtoExtensions.Read();
-		var created = _service.CreateAsync(input);
+		var created = await _service.CreateAsync(BookDtoExtensions.Read());
 		Console.WriteLine("Додано книгу:");
-		Console.WriteLine(created);
+		created.Show();
 	}
 
 	public async Task EditAsync()
 	{
-		var input = BookDtoExtensions.Read(InputId());
-		var success = await _service.UpdateAsync(input);
+		var success = await _service.UpdateAsync(InputId(), BookDtoExtensions.Read());
 		Console.WriteLine(success ? "Книгу успішно відреадговано" : "Виникла помилка");
 	}
 
